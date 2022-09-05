@@ -1,0 +1,15 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_019DF25C_0BD2_0227_4193_A520CDB805B7.label = Mặt toà 105 Láng Hạ
+panorama_019E820D_0BD2_0221_4192_3E02F97820B8.label = Mặt toà nhà 97-99 Láng Hạ
+panorama_0113A29D_0BD2_0221_41A2_74FF96E1AFE4.label = Ảnh Toàn Cảnh
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 7
